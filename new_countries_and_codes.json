@@ -1,116 +1,116 @@
 [
-{
+    {
         "name": "Somalia",
         "code": "so",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/6a251cac8702fb956bd734839f2efdb300705d19/1f1f8-1f1f4.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1f8-1f1f4.png",
         "ncode": "+252"
     },
     {
         "name": "South Africa",
         "code": "za",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/6a251cac8702fb956bd734839f2efdb300705d19/1f1f8-1f1f4.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1f8-1f1f4.png",
         "ncode": "+27"
     },
     {
         "name": "Djibouti",
         "code": "DJ",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/dd5a6a6ef73ec88ee235a0674c0cbdc1dde172b0/1f1ff-1f1e6.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1ff-1f1e6.png",
         "ncode": "+253"
     },
     {
         "name": "Kenya",
         "code": "Ke",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/2325970a7a13c8a0336e36b011e497338623f999/1f1f0-1f1ea.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1f0-1f1ea.png",
         "ncode": "+254"
     },
     {
         "name": "Ethiopia",
         "code": "ETH",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/624076db9071564d4df57acc74c213a6bd869027/1f1ea-1f1f9.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1ea-1f1f9.png",
         "ncode": "+251"
     },
     {
         "name": "Eritrea",
         "code": "ER",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/e34b98a8d0105aa4cfea56309b589fb7b68b1f7c/1f1ea-1f1f7.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1ea-1f1f7.png",
         "ncode": "+291"
     },
     {
         "name": "Uganda",
         "code": "UG",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/eb70ec2bc374c0aa337caa1cfbc2fe6ca167ca5b/1f1fa-1f1ec.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1fa-1f1ec.png",
         "ncode": "+256"
     },
     {
         "name": "Turkey",
         "code": "TR",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/ed357e5871ac02ab601d019c7db1aed229f89005/1f1f9-1f1f7.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1f9-1f1f7.png",
         "ncode": "+90"
     },
     {
         "name": "Cyprus",
         "code": "CY",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/4608128628b97620087ea9856042b070e682674a/1f1e8-1f1fe.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1e8-1f1fe.png",
         "ncode": "+357"
     },
     {
         "name": "Egypt",
         "code": "EG",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/ff6bef506866fca510a344c0ff76327c5a375eef/1f1ea-1f1ec.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1ea-1f1ec.png",
         "ncode": "+20"
     },
     {
         "name": "Ghana",
         "code": "GH",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/27e7ad4bf6fb3015777269c7f013ccf876c061f0/1f1ec-1f1ed.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1ec-1f1ed.png",
         "ncode": "+233"
     },
     {
         "name": "Guinea",
         "code": "GN",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/0cf558d5fc7dbce8fe4d19c80e54500eca1c0c1b/1f1ec-1f1f3.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1ec-1f1f3.png",
         "ncode": "+224"
     },
     {
         "name": "Bangladesh",
         "code": "BD",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/741049b1bfd0510d4472e7fcfc5e715725c73924/1f1e7-1f1e9.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1e7-1f1e9.png",
         "ncode": "+880"
     },
     {
         "name": "India",
         "code": "IN",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/4d6f9977d7c1da28153c18b0746c9255aa206faf/1f1ee-1f1f3.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1ee-1f1f3.png",
         "ncode": "+91"
     },
     {
         "name": "Iraq",
         "code": "IQ",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/1fd7d7facea3420f753eee88161e359e42343426/1f1ee-1f1f6.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1ee-1f1f6.png",
         "ncode": "+964"
     },
     {
         "name": "Sudan",
         "code": "SD",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/daf302bebd04b300e7ab6a29b77473a6a44bb97a/1f1f8-1f1e9.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1f8-1f1e9.png",
         "ncode": "+249"
     },
     {
         "name": "South Sudan",
         "code": "SD",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/b7751497ce096206c488d92f795e74419790df38/1f1f8-1f1f8.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1f8-1f1f8.png",
         "ncode": "+211"
     },
     {
         "name": "Gabon",
         "code": "GA",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/fef7e1d1b4289f0625619e11032447c43ee5cc76/1f1ec-1f1e6.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1ec-1f1e6.png",
         "ncode": "+241"
     },
     {
         "name": "Morocco",
         "code": "MA",
-        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/a38bc161d70fe4d3d4f0ae6e7446679c19c8eb0e/1f1f2-1f1e6.svg",
+        "flag": "https://raw.githubusercontent.com/tximg/hdhaj/main/1f1f2-1f1e6.png",
         "ncode": "+212"
     }
 ]
